@@ -1,6 +1,6 @@
 ## 👩🏼‍💻 About test the todo app
 
-This is a project that contains a small Library app, that was created with Javascript, HTML, Bootstrap and, DOM. In this app you can store a new book, see the books that are stored, you can check if is already read or not, and you can delete it.
+This is a project that contains a small test to the todo app, that was created with Javascript, HTML, Bootstrap and, DOM. In this app you can store a new book, see the books that are stored, you can check if is already read or not, and you can delete it.
 
 
 ## 🔧 Built with
