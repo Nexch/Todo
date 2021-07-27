@@ -18,9 +18,10 @@ This is a project that contains a small Library app, that was created with Javas
 To get a local copy up and running follow these simple steps:
 
 1. Open your terminal and cd where you want to store the project
-2. Run the following command - git clone git@github.com:Nexch/weatherapp.git
+2. Run the following command - git clone git@github.com:Nexch/Todo.git
 3. Cd into the directory - cd weatherapp
-4. Open the live server on your VScode
+4. run npm install
+5. run npm test to do the test
 
 
 ## 👥 Author
