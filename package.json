@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Nexch/Todo#readme",
   "dependencies": {
+    "@babel/preset-env": "^7.14.8",
     "@shelf/jest-mongodb": "^2.0.1",
     "babel": "^6.23.0",
     "jest": "^27.0.6",
