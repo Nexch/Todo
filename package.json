@@ -1,0 +1,37 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "This is a project that contains a small Library app, that was created with Javascript, HTML, Bootstrap and, DOM. In this app you can store a new book, see the books that are stored, you can check if is already read or not, and you can delete it.",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "jest",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nexch/Todo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nexch/Todo/issues"
+  },
+  "homepage": "https://github.com/Nexch/Todo#readme",
+  "dependencies": {
+    "@babel/preset-env": "^7.14.8",
+    "@shelf/jest-mongodb": "^2.0.1",
+    "babel": "^6.23.0",
+    "jest": "^27.0.6",
+    "jsdom": "^16.6.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.31.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.20.1"
+  }
+}
